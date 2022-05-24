@@ -1,5 +1,5 @@
 {
-    "name": "Remove non-preferred fields",
+    "name": "Remove non-preferred fields Alex",
     "description": "Given a dataset, filters out fields that are not preferred.",
     "kind": "script",
     "source_code": "script.whizzml",
